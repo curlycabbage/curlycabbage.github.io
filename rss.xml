@@ -1,9 +1,10 @@
 <?xml version="1.0"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">>
    <channel>
       <title>Curly Cabbage Feed</title>
       <link>https://www.curlycabbage.com/</link>
       <description>Collected interests of the Curly Cabbage Consortium.</description>
+      <atom:link href="https://www.curlycabbage.com/rss.xml" rel="self" type="application/rss+xml" />
       <image>
         <title>Curly Cabbage Feed</title>
         <link>https://www.curlycabbage.com/</link>
