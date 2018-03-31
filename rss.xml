@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+   <channel>
+      <title>Curly Cabbage Feed</title>
+      <link>https://www.curlycabbage.com/</link>
+      <description>Collected interests of the Curly Cabbage Consortium.</description>
+      <image>
+        <url>https://www.curlycabbage.com/images/savoy-cabbage.jpg</url>
+      </image>
+      <item>
+         <title>School life in Anhua County in the 80s and 90s</title>
+         <link>https://www.curlycabbage.com/posts/anhua-school-life/</link>
+         <guid>https://www.curlycabbage.com/posts/anhua-school-life/</guid>
+         <description>Reminiscences about school life in Anhua County in Hunan, China during the 70s, 80s and 90s</description>
+         <pubDate>Sat, 31 Mar 2018 00:00:00 GMT</pubDate>
+      </item>
+      <item>
+         <title>Anhua County</title>
+         <link>https://www.curlycabbage.com/posts/anhua-county/</link>
+         <guid>https://www.curlycabbage.com/posts/anhua-county/</guid>
+         <description>More about Anhua County, Hunan, China</description>
+         <pubDate>Sat, 31 Mar 2018 00:00:00 GMT</pubDate>
+      </item>
+   </channel>
+</rss>
